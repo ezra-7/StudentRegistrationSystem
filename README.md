@@ -29,7 +29,4 @@ This is a Java-based Student Registration System developed for the Object-Orient
 - `project.ui` - CLI or GUI interface
 - `project.util` - Logging or utilities
 
-## Notes
-- Ensure your MySQL database is set up as described in the code.
-- Use Git and GitHub for version control.
 
