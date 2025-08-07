@@ -19,6 +19,9 @@ This is a Java-based Student Registration System developed for the Object-Orient
 ## Team Members
 - Ezra Admasu
 - Robengetu
+- razby-code
+- Betselot-123
+- Feven22ez
 
 ## File Structure
 - `project.model` - Data classes (POJOs)
